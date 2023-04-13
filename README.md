@@ -21,6 +21,7 @@ Laravel Framework 8.83.8
 
 ## テーブル設計
 <-- 作成したテーブル設計の画像 -->
+https://github.com/meikizi/20230414_kumagawa_laravel-test/issues/2#issue-1665513950
 
 ## ER図
 今回はリレーションを行っていないため作成していません。
